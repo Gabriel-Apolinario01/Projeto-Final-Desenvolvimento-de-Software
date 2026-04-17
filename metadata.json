@@ -1,0 +1,5 @@
+{
+  "name": "EstudaAI - Personalized Learning Paths",
+  "description": "An application to help students plan their studies by recommending pre-defined learning paths or creating personalized ones with the help of an AI agent.",
+  "requestFramePermissions": []
+}

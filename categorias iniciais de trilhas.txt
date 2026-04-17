@@ -1,0 +1,31 @@
+categorias iniciais de trilhas
+
+1. Desenvolvimento Web
+Trilha: Front-End com React
+HTML, CSS, JavaScript
+Frameworks modernos (React, Next.js)
+Boas práticas e deploy
+
+2. Ciência de Dados
+Trilha: Análise de Dados com Python
+Python para manipulação de dados (Pandas, NumPy)
+Visualização (Matplotlib, Seaborn)
+Introdução a estatística aplicada
+
+3. Inteligência Artificial
+Trilha: Fundamentos de Machine Learning
+Álgebra linear e cálculo básico aplicado
+Modelos supervisionados (regressão, classificação)
+Redes neurais introdutórias
+
+4. Segurança da Informação
+Trilha: Introdução à Cibersegurança
+Conceitos de segurança digital
+Criptografia básica
+Boas práticas de proteção de dados
+
+5. Soft Skills & Carreira
+Trilha: Comunicação e Trabalho em Equipe
+Técnicas de comunicação clara
+Resolução de conflitos
+Colaboração em ambientes ágeis
