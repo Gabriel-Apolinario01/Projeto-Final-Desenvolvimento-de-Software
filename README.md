@@ -398,12 +398,13 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Gabriel Apolinário
-Bruno Vilalba
-Leonardo Zani
-Felipe Yuji
-Luis
-Aruak Malta
+- Miqueias 
+- Gabriel Apolinário
+- Bruno Vilalba
+- Leonardo Zani
+- Felipe Yuji
+- Luis
+- Aruak Malta
 
 
 ---
